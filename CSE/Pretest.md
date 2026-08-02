@@ -142,14 +142,14 @@
  ---
  ### What is the primary purpose of an API Gateway?តើគោលបំណងចម្បងនៃ API Gateway ជាអ្វី?
  - A. Store Data រក្សាទុកទិន្នន័យ
- - B. Route and Manage API Requests បញ្ជូន និងគ្រប់គ្រងសំណើ API  
+ - `B. Route and Manage API Requests បញ្ជូន និងគ្រប់គ្រងសំណើ API` 
  - C. Compile Source Code  
  - D. Manage Databases គ្រប់គ្រងមូលដ្ឋានទិន្នន័យ  
  
  ---
  ### Which Agile artifact contains prioritized requirements? តើ Agile artifact មួយណាដែលមានតម្រូវការដែលបានកំណត់អាទិភាព?
  - A. Sprint Review
- - B. Product Backlog
+ - `B. Product Backlog`
  - C. Burndown Chart
  - D. Retrospective  
  
@@ -163,7 +163,7 @@
  ---
  ### In Event-Driven Architecture (EDA), what triggers processing? នៅក្នុង Event-Driven Architecture (EDA) តើអ្វីដែលជំរុញដំណើរការ?
  - A. Database Schema
- - B. Events
+ - `B. Events`
  - C. Threads 
  - D. UI Components  
  
@@ -171,5 +171,5 @@
  ### Which cloud service model provides virtual machines? តើគំរូសេវាកម្ម cloud មួយណាដែលផ្តល់ virtual machines?
  - A. SaaS
  - B. PaaS
- - C. IaaS 
+ - `C. IaaS`
  - D. FaaS
